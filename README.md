@@ -71,10 +71,8 @@ Welcome to my GitHub profile! I'm passionate about artificial intelligence, deep
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [Email](mailto:your.email@example.com)  
-- [Twitter](https://twitter.com/your-twitter)  
-
+- [LinkedIn](https://www.linkedin.com/in/gauravbansal1600)  
+- [Email](mailto:bansalg707@gmail.com)  
 ---
 
 ## ✨ Fun Facts
