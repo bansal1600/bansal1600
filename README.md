@@ -15,26 +15,14 @@ Welcome to my GitHub profile! I'm passionate about artificial intelligence, deep
 
 ## 🧑‍💻 Featured Projects
 
-### 🔹 [Video Summarizer using OpenAI](https://github.com/bansal1600/Video-Summarizer-using-OpenAI)
-> Summarizes video content using OpenAI models and Python automation.
-
 ### 🔹 [Handwritten Digit Recognition App](https://github.com/bansal1600/handwritten_digit_recognition_app)
 > Deep learning app for recognizing handwritten digits, fully implemented in Python.
-
-### 🔹 [PyTorch Deep Learning](https://github.com/bansal1600/pytorch-deep-learning)
-> Collection of Jupyter Notebooks exploring deep learning with PyTorch.
-
-### 🔹 [Basic RAG with LangChain](https://github.com/bansal1600/Basic-RAG-With-LangChain)
-> Retrieval-Augmented Generation using LangChain and Python.
 
 ### 🔹 [Perplexity 2 App](https://github.com/bansal1600/bansal1600-Perplexity_2_App)
 > Advanced language modeling and experimentation with Jupyter, TypeScript, and Python.
 
 ### 🔹 [Advanced RAG With LangGraph](https://github.com/bansal1600/Advanced_RAG_With_LangGraph)
 > Cutting-edge RAG implementation using LangGraph and Python.
-
-### 🔹 [Convolutional Neural Network](https://github.com/bansal1600/convolutional_neural_network)
-> Notebook-based exploration of CNNs and their applications.
 
 ### 🔹 [Conversational RAG With FastAPI](https://github.com/bansal1600/Conversational-RAG_With_FastAPI)
 > Chatbot and conversational AI using RAG and FastAPI.
