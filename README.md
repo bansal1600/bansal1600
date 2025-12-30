@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm passionate about artificial intelligence, deep
 
 ## 🧑‍💻 Featured Projects
 
-### 🔹 [Handwritten Digit Recognition App](https://github.com/bansal1600/handwritten_digit_recognition_app)
-> Deep learning app for recognizing handwritten digits, fully implemented in Python.
+### 🔹 [MLOPs End to End Project](https://github.com/bansal1600/classification-sentiment-mlops)
+> End to End MLOPs project showcasing Data Versioning(DVC), Model Deployment(MLFlow), Deployment(Docker, K8S, EKS, ECS, S3)
 
 ### 🔹 [Perplexity 2 App](https://github.com/bansal1600/bansal1600-Perplexity_2_App)
 > Advanced language modeling and experimentation with Jupyter, TypeScript, and Python.
