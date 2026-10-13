@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gaurav Bansal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+AI+Engineer;Deep+Learning+%7C+LLMs+%7C+MLOps;Building+Intelligent+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+AI+Engineer;Deep+Learning+%7C+LLMs+%7C+MLOps;Building+AI+Products+That+Scale)](https://github.com/bansal1600)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=bansal1600&color=blue&style=flat-square)](https://github.com/bansal1600)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/gauravbansal1600)
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about artificial intelligence, deep learning, and building end-to-end ML systems that ship to production. I specialize in **LLMs, RAG pipelines, and MLOps**, and I love solving real-world problems with state-of-the-art models and scalable infrastructure.
+I'm passionate about artificial intelligence, deep learning, and building end-to-end ML systems that ship to production. I specialize in **LLMs, RAG pipelines, and MLOps**, and I love solving real-world problems with data-driven AI.
 
 - 🤖 Building production-grade **LLM applications** with LangChain, LangGraph & FastAPI
 - ☁️ Deploying ML models on **AWS** (EKS, ECS, S3) with Docker & Kubernetes
@@ -28,10 +28,24 @@ I'm passionate about artificial intelligence, deep learning, and building end-to
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**MLOps End-to-End**](https://github.com/bansal1600/classification-sentiment-mlops) | Full MLOps pipeline with data versioning, model tracking, and cloud deployment | DVC · MLflow · Docker · K8s · AWS (EKS, ECS, S3) |
+| [**MLOps End-to-End**](https://github.com/bansal1600/classification-sentiment-mlops) | Full MLOps pipeline with data versioning, model tracking, and cloud deployment | DVC · MLflow · Docker · K8s |
 | [**Advanced RAG With LangGraph**](https://github.com/bansal1600/Advanced_RAG_With_LangGraph) | Cutting-edge RAG implementation using LangGraph for agentic retrieval workflows | LangGraph · LangChain · Python |
-| [**Conversational RAG With FastAPI**](https://github.com/bansal1600/Conversational-RAG_With_FastAPI) | Production-ready chatbot backend using RAG + FastAPI with session memory | FastAPI · LangChain · Python |
+| [**Conversational RAG With FastAPI**](https://github.com/bansal1600/Conversational-RAG_With_FastAPI) | Production-ready chatbot backend using RAG + FastAPI with session memory | FastAPI · LangChain · Redis |
 | [**Perplexity 2 App**](https://github.com/bansal1600/bansal1600-Perplexity_2_App) | Advanced language modeling and search experimentation | TypeScript · Jupyter · Python |
+
+---
+
+## 🔥 Recent Contributions
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bansal1600&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=6ad3f7&point=ffffff&area=true&hide_border=true)](https://github.com/bansal1600)
+
+</div>
+
+- Recently contributing to **LLM-powered applications**, **RAG workflows**, and **MLOps pipelines**
+- Building and iterating on production-ready AI systems with **FastAPI, LangChain, and cloud deployment**
+- Continuing to explore **agentic AI**, **retrieval systems**, and scalable ML infrastructure
 
 ---
 
